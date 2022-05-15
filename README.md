@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" alt="Greeting">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" height="80" align="center" alt="Greeting">
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">I’m a FullStack Web Developer with DevOps experience who has been awarded 'Top Contributors' recognition at his current organization. Being a computer science graduate with an outstanding GPA of 3.9 (Summa Cum Laude), I've a solid grasp of the subject. I also have exposure to competitive programming, achieving a 5-star rating on HackerRank & solving more than 200 problems on Leetcode. My biggest strength as an engineer is my ability to google & figure stuff out.</h3>
 
