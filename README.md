@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://freeimage.host/i/W4U76P" align="center" style="width: 100%" />
+<!-- <img src="https://freeimage.host/i/W4U76P" align="center" style="width: 100%" /> -->
 </div>  
 
 <h1 align="center">Hi 👋, I'm Pratik</h1>
