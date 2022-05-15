@@ -1,5 +1,8 @@
-<img align="center" src="https://rishavanand.github.io/static/images/greetings.gif" height="200" width="60%" alt="Greeting">
-<!-- <h1 align="center">Hi 👋, I'm Pratik</h1> -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+<h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">I’m a FullStack Web Developer with DevOps experience who has been awarded 'Top Contributors' recognition at his current organization. Being a computer science graduate with an outstanding GPA of 3.9 (Summa Cum Laude), I've a solid grasp of the subject. I also have exposure to competitive programming, achieving a 5-star rating on HackerRank & solving more than 200 problems on Leetcode. My biggest strength as an engineer is my ability to google & figure stuff out.</h3>
 
 <p align="left"> <a href="https://twitter.com/_pratikraj" target="blank"><img src="https://img.shields.io/twitter/follow/_pratikraj?logo=twitter&style=for-the-badge" alt="_pratikraj" /></a> </p>
