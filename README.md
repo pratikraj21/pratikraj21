@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+<img src="https://drive.google.com/file/d/1mcsN7M1KVeJ6I8vLrJgJ6zklDEu7GMhJ/view?usp=sharing" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Pratik</h1>
