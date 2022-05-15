@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://ibb.co/cwJRLz9" align="center" style="width: 100%" />
+  [![W4U76P.md.png](https://iili.io/W4U76P.md.png)](https://freeimage.host/i/W4U76P)
 </div>  
 
 <h1 align="center">Hi 👋, I'm Pratik</h1>
