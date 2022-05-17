@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/pratikraj21/codeStud.github.io/blob/main/assets/img/profile-banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/pratikraj21/WebDev-Conferences/blob/main/assets/images/profile-banner.png" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center"> ⚡ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I am Pratik ⚡ </h1>
