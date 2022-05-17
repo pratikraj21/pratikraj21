@@ -177,4 +177,12 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikraj21&show_icons=true&locale=en" alt="pratikraj21" /></p>
+<div style="padding: 20px 0px;">
+<img style="border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=pratikraj21&bg_color=df8882&color=000&line=21272a&point=f7e87d&hide_border=true">
+</div>
+
+<div align="center" style="padding: 20px 0px">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=pratikraj21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000&ring=000&fire=fdde04&currStreakNum=000&sideNums=000&currStreakLabel=000&sideLabels=000&background=df8882&dates=000">
+</div>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikraj21&show_icons=true&locale=en" alt="pratikraj21" /></p> -->
