@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -109,6 +109,9 @@
       height="40"
     />
   </a>
+</p>
+
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
